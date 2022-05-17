@@ -119,7 +119,7 @@ moveDiv.onclick = function () {
 
 现在根据我们刚刚所学的知识，写一个简易的轮播图。
 
-> 关于样式和图标的话，需要的可以去这里取。
+> 关于样式和图标的话，需要的可以去 `project 文件夹` 中取。
 
 ```html
 <!DOCTYPE html>
